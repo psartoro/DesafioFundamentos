@@ -1,0 +1,15 @@
+/Users/psartoro/Documents/projetosCSharp/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos
+/Users/psartoro/Documents/projetosCSharp/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.deps.json
+/Users/psartoro/Documents/projetosCSharp/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.runtimeconfig.json
+/Users/psartoro/Documents/projetosCSharp/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.dll
+/Users/psartoro/Documents/projetosCSharp/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.pdb
+/Users/psartoro/Documents/projetosCSharp/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.csproj.AssemblyReference.cache
+/Users/psartoro/Documents/projetosCSharp/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/psartoro/Documents/projetosCSharp/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.AssemblyInfoInputs.cache
+/Users/psartoro/Documents/projetosCSharp/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.AssemblyInfo.cs
+/Users/psartoro/Documents/projetosCSharp/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.csproj.CoreCompileInputs.cache
+/Users/psartoro/Documents/projetosCSharp/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.dll
+/Users/psartoro/Documents/projetosCSharp/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/refint/DesafioFundamentos.dll
+/Users/psartoro/Documents/projetosCSharp/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.pdb
+/Users/psartoro/Documents/projetosCSharp/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.genruntimeconfig.cache
+/Users/psartoro/Documents/projetosCSharp/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/ref/DesafioFundamentos.dll
